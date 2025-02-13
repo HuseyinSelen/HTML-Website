@@ -10,7 +10,7 @@ This website serves as a **presentation and informational platform**, showcasing
 - Landing pages
 
 ## Project Images
-![Project Screenshot](image.jpg)
+![Project Screenshot](image.png)
 
 ### Features
 - **Fully responsive design** for mobile, tablet, and desktop views
